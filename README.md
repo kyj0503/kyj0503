@@ -16,6 +16,10 @@
 <h2 align="center">Contact</h2>
 
 <p align="center">
-<img src="https://img.shields.io/badge/Naver Blog-03C75A?style=for-the-badge&logo=Naver&logoColor=white&link=https://blog.naver.com/kanden9999"/></a>
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:heroria0503@gmail.com"/></a>
+<a href="https://blog.naver.com/kanden9999">
+  <img src="https://img.shields.io/badge/Naver Blog-03C75A?style=for-the-badge&logo=Naver&logoColor=white"/></a>
+</a>
+<a href="mailto:heroria0503@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</a>
 </p>
