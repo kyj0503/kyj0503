@@ -13,6 +13,8 @@
 <img src="https://img.shields.io/badge/React Native-61DAFB?style=for-the-badge&logo=react&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/></a>
 </p>
+안드로이드, 부트스트랩 등
+
 
 <h2 align="center">Contact</h2>
 
