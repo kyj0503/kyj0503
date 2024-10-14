@@ -40,3 +40,9 @@
 2024.07. [코멘토 SW개발 직무부트캠프](https://blog.naver.com/kanden9999/223573949073)
 
 2024.09. ~ GDG on Campus: Kangnam University
+
+<h2>자격증</h2>
+
+2024.08. OPIc IM2
+
+2024 겨울 ~ 2025 SQLD, 정처기, PCCP 계획 중
