@@ -1,9 +1,9 @@
-<h2>2년+</h2>
+<h2>≥2년</h2>
 
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/></a>
 
-<h2>1년+</h2>
+<h2>≥1년</h2>
 
 <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"/></a>
@@ -11,7 +11,7 @@
 <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/></a>
 
-<h2>1학기+</h2>
+<h2>≥1학기</h2>
 
 <img src="https://img.shields.io/badge/React Native-61DAFB?style=for-the-badge&logo=react&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/></a>
