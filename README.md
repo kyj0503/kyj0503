@@ -1,4 +1,4 @@
-<h2>Contact</h2>
+# Contact
 
 Phone : 010-5755-0503
 
@@ -6,7 +6,7 @@ Email : heroria0503@gmail.com
 
 Blog : https://blog.naver.com/kanden9999
 
-<h2>Education</h2>
+# Education
 
 경남대학교 컴퓨터공학전공 (2학년 수료) (2020.03. - 2024.02.)
 
@@ -14,15 +14,19 @@ Blog : https://blog.naver.com/kanden9999
 
 [코멘토 SW개발 직무부트캠프](https://blog.naver.com/kanden9999/223573949073) (2024.07.)
 
-<h2>Certificates</h2>
+# Certificates
 
 OPIc IM2 (2024.08.)
 
-<h2>Skills</h2>
+# Skills
+
+### 주로 사용하는 기술
 
 Java / Spring Boot
 
-Python / Django
+### 사용해본 기술
+
+MySQL
 
 HTML / CSS / JavaScript
 
@@ -30,8 +34,8 @@ React Native / Bootstrap
 
 C / C++
 
-MySQL
-
 Android Studio
+
+Python / Django
 
 R
