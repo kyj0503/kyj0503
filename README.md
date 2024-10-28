@@ -20,11 +20,11 @@ OPIc IM2 (2024.08.)
 
 # Skills
 
-### 주로 사용하는 기술
+### 주로 사용하는
 
 Java / Spring Boot
 
-### 사용해본 기술
+### 사용해본
 
 HTML / CSS / JavaScript / React Native / Bootstrap
 
