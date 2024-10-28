@@ -26,16 +26,6 @@ Java / Spring Boot
 
 ### 사용해본 기술
 
-MySQL
+HTML / CSS / JavaScript / React Native / Bootstrap
 
-HTML / CSS / JavaScript
-
-React Native / Bootstrap
-
-C / C++
-
-Android Studio
-
-Python / Django
-
-R
+C / C++ / Python / Django / MySQL / Android Studio / R
