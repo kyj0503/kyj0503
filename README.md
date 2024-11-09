@@ -1,7 +1,5 @@
 # Contact
 
-Phone : 010-5755-0503
-
 Email : heroria0503@gmail.com
 
 Blog : https://blog.naver.com/kanden9999
