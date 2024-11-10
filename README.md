@@ -1,10 +1,10 @@
-# Contact
+# 연락처
 
 Email : heroria0503@gmail.com
 
 Blog : https://blog.naver.com/kanden9999
 
-# Education
+# 학력
 
 강남대학교 소프트웨어전공 (2024.03.-2026.02)
 
@@ -14,11 +14,11 @@ Blog : https://blog.naver.com/kanden9999
 
 경남대학교 컴퓨터공학전공 (2020.03.-2024.02)
 
-# Certificates
+# 자격증
 
 OPIc IM2 (2024.08.)
 
-# Skills
+# 기술
 
 ### 주로 사용하는
 
