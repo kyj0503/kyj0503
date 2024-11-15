@@ -1,9 +1,3 @@
-# 연락처
-
-Email : heroria0503@gmail.com
-
-Blog : https://blog.naver.com/kanden9999
-
 # 학력
 
 강남대학교 소프트웨어전공 (2024.03.-)
@@ -16,9 +10,9 @@ Blog : https://blog.naver.com/kanden9999
 
 # 활동
 
-강남대학교 소프트웨어전공 동아리 아우내 (2024.03.-)
-
 GDG on Campus: Kangnam University (2024.09.-)
+
+강남대학교 소프트웨어전공 동아리 아우내 (2024.03.-)
 
 # 자격증
 
@@ -34,4 +28,4 @@ Java / Spring Boot
 
 HTML / CSS / JavaScript / React Native / Bootstrap
 
-C / C++ / Python / Django / MySQL / Android Studio / R
+C / C++ / Python / Django / MySQL / MS Access / Android Studio / R
