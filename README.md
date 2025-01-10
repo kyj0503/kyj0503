@@ -28,6 +28,6 @@ Java / Spring Boot
 
 ### 사용해본
 
-HTML / CSS / JavaScript / React Native / Bootstrap
+HTML / CSS / JavaScript / React / React Native / Bootstrap
 
 C / C++ / Python / Django / MySQL / MS Access / Android Studio / R
