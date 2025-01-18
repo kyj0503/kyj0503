@@ -10,9 +10,11 @@
 
 # 활동
 
-2025 강남대학교 해커톤 (2025.01.)
-
 GDG on Campus: Kangnam University (2024.09.-)
+
+- 2025 강남대학교 해커톤 (2025.01.10.-11.)
+
+- 2025 GDGoC New Year Hackathon (2025.01.18.-19.)
 
 강남대학교 소프트웨어전공 동아리 아우내 (2024.03.-)
 
@@ -28,6 +30,8 @@ Java / Spring Boot
 
 ### 사용해본
 
+AWS / Google Cloud
+
 HTML / CSS / JavaScript / React / React Native / Bootstrap
 
-C / C++ / Python / Django / MySQL / MS Access / Android Studio / R
+C / C++ / Python / Django / MySQL / H2 / MS Access / Android Studio / R
