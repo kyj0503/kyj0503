@@ -12,9 +12,9 @@
 
 GDG on Campus: Kangnam University (2024.09.-2025.08.)
 
-- 2025 강남대학교 해커톤 (2025.01.10.-11.)
+- 2025 [강남대학교 해커톤](https://github.com/kyj0503/kangneng_back) (2025.01.10.-11.)
 
-- 2025 GDGoC New Year Hackathon (2025.01.18.-19.)
+- 2025 [GDGoC New Year Hackathon](https://github.com/GDGoC-6/chonstay_backend) (2025.01.18.-19.)
 
 강남대학교 소프트웨어전공 동아리 아우내 (2024.03.-2025.02.)
 
