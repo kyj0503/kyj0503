@@ -30,8 +30,10 @@ Java / Spring Boot
 
 #### 사용해본
 
-AWS / Google Cloud
+AWS (EC2, RDS) / GCP (Cloud Run, Cloud SQL, Cloud Storage)
 
-HTML / CSS / JavaScript / React / React Native / Bootstrap
+HTML, CSS, JavaScript / React / Bootstrap
 
-C / C++ / Python / Django / MySQL / H2 / MS Access / Android Studio / R
+Android Studio / React Native
+
+C / C++ / Python / Django / FastAPI / MySQL / MS Access
