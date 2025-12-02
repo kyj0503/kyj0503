@@ -1,4 +1,4 @@
-<img width="235" height="190" alt="image" src="https://github.com/user-attachments/assets/bc0ee50a-b7ef-4f89-872f-d42d7d4c0d10" />
+<img width="944" height="372" alt="image" src="https://github.com/user-attachments/assets/053a2374-50cd-4d94-8e8a-94887dfe0e29" />
 
 충격! 11살부터 블로그를 한 사람이 있다?! 지금 접속 -> [블로그](https://blog.naver.com/kanden9999)
 
