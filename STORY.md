@@ -18,7 +18,7 @@
 
 ### 2.1. Personal Project
 
-#### **라고할때살걸 (Stock Backtesting Service)**
+#### **[라고할때살걸](https://backtest.yeonjae.kr/)**
 > **기간:** 2025. 05. ~ 2025. 11.
 
 > **성과:** 강남대학교 컴퓨터공학부 졸업작품전시회 **장려상** 수상
@@ -39,7 +39,7 @@
 **Backend Team Lead**
 모든 팀 프로젝트에서 백엔드 팀장을 맡아 **비즈니스 로직 개발**뿐만 아니라, **인프라 구축(Linux, CI/CD)** 및 **프로젝트 관리**(백로그 분배, 일정 관리)를 전담했습니다.
 
-#### **RhythMeet (Band Schedule Manager)**
+#### **[RhythMeet](https://rhythmeet.site/)**
 > **기간:** 2025. 05. ~ 2025. 06.
 
 > **규모:** 가입자 122명 달성
@@ -50,7 +50,7 @@
 * **Infra & DevOps:** AWS EC2, RDS, S3 환경을 직접 구축하고 **Jenkins** 파이프라인을 설계하여 배포 자동화를 구현했습니다. 단순 Health Check를 넘어 **Prometheus와 Grafana**를 도입, 활성 사용자 수와 API Latency를 시각화하여 장애 대응 체계를 마련했습니다.
 * **Management:** 기획 단계에서 기능 요구사항을 기술적으로 분석하여 백로그를 생성하고, 팀원들의 역량에 맞춰 티켓을 분배하며 개발 일정을 조율했습니다.
 
-#### **Jandi Web IDE (Coding Test Platform)**
+#### **[Jandi Web IDE](https://jandiide.netlify.app/)**
 > **기간:** 2025. 04.
 
 > **역할:** Backend Team Lead (FE 2, BE 3)
@@ -59,7 +59,7 @@
 * **Core Logic:** **ProcessBuilder**로 Java/Python/C++ 코드를 실행하되, `waitFor(timeout)` 및 JVM 메모리 옵션(`-Xmx`)을 강제하여 무한 루프 등 악의적 코드로 인한 서버 다운을 원천 차단했습니다.
 * **Management:** WebSocket 통신 등 난이도 높은 기술 스택 도입 시, 팀원들을 위한 가이드 문서를 작성하고 핵심 모듈 개발을 주도하여 리스크를 관리했습니다.
 
-#### **Just Plan It! (Travel Planner)**
+#### **[Just Plan It!](https://justplanit.site/)**
 > **기간:** 2025. 02. ~ 2025. 03.
 
 > **역할:** Backend Team Lead (FE 2, BE 2)
