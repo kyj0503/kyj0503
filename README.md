@@ -1,11 +1,22 @@
-<img width="237" height="62" alt="image" src="https://github.com/user-attachments/assets/01ed4060-d90c-4754-bd69-78b34e8ee535" />
+# 기록으로 성장하는 14년 차 IT 덕후
+> 이 문서는 축약 문서로써 각 링크를 클릭하면 상세 페이지로 이동합니다.
 
-2025년 컴퓨터공학부 졸업작품 우수상 받은 작품! ⇒ [라고할때살걸](https://backtest.yeonjae.kr) 
+## 1. Introduction
+11살부터 게임 '테라리아'의 멀티플레이 서버를 직접 호스팅하고 운영하며 서버와 네트워크의 기초를 익혔습니다. 하드웨어에 대한 남다른 관심으로 15살부터 PC를 직접 조립하고 나무위키 하드웨어 문서를 집필하는 등, IT 전반에 대한 깊은 호기심을 지식으로 발전시켜 왔습니다.
 
-전국 대학생 130여명이 선택한 밴드 관리 플랫폼 ⇒ [RhythMeet](https://rhythmeet.site/)
+이러한 탐구심은 백엔드 개발자를 진로로 정한 24살 무렵부터 전문적인 기술 블로그 운영으로 이어졌습니다. 단순히 기술을 사용하는 것을 넘어, 프로젝트의 트러블 슈팅 과정과 배운 점을 꾸준히 기록하며 동료들과 함께 성장하는 개발자를 지향합니다.
 
-3주만에 완성한 코딩테스트 + 오픈채팅 플랫폼 ⇒ [Jandi IDE](https://jandiide.netlify.app/)
+## 2. My Projects
 
-<img width="944" height="372" alt="image" src="https://github.com/user-attachments/assets/053a2374-50cd-4d94-8e8a-94887dfe0e29" />
+### 2.1. Personal Project
+Project        | Skills                 | Description
+---------------|------------------------|------------
+라고할때살걸    | Python, FastAPI        | 강남대학교 컴퓨터공학부 2025 졸업작품전시회 장려상
 
-충격! 11살부터 블로그를 한 사람이 있다?! 지금 접속 ⇒ [블로그](https://blog.naver.com/kanden9999)
+### 2.2. Team Projects
+Project        | Skills                   | Description
+---------------|--------------------------|------------
+RhythMeet      | Java, Spring Boot        | 
+Jandi Web IDE  | Java, Spring Boot        |
+Just Plan It!  | Java, Spring Boot        |
+
