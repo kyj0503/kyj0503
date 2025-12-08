@@ -9,15 +9,15 @@
 ## 2. My Projects
 
 ### 2.1. Personal Project
-Project        | Skills                 | Description
----------------|------------------------|------------
-라고할때살걸    | Python, FastAPI        | 강남대학교 컴퓨터공학부 2025 졸업작품전시회 장려상
+Project        | Skills                 | Description        | Awards  
+---------------|------------------------|--------------------|---------
+라고할때살걸    | Python, FastAPI        | 주식 백테스팅 서비스 | 강남대학교 컴퓨터공학부 2025 졸업작품전시회 장려상 
 
 ### 2.2. Team Projects
 Project        | Skills                   | Description
 ---------------|--------------------------|------------
-RhythMeet      | Java, Spring Boot        | 
-Jandi Web IDE  | Java, Spring Boot        |
-Just Plan It!  | Java, Spring Boot        |
+RhythMeet      | Java, Spring Boot        | 밴드부 합주 조율 서비스
+Jandi Web IDE  | Java, Spring Boot        | 코딩 테스트 플랫폼
+Just Plan It!  | Java, Spring Boot        | 여행 플래너
 
 [더보기....](https://github.com/kyj0503/kyj0503/blob/main/STORY.md)
