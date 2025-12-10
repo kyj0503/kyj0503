@@ -11,7 +11,7 @@
 ### 2.1. Personal Project
 Project                                                                                                                        | Skills                 | Description         | Awards  
 -------------------------------------------------------------------------------------------------------------------------------|------------------------|---------------------|---------------------------------------
-[라고할때살걸](https://github.com/kyj0503/kyj0503/blob/main/STORY.md#%EB%9D%BC%EA%B3%A0%ED%95%A0%EB%95%8C%EC%82%B4%EA%B1%B8)    | Python, FastAPI        | 주식 백테스팅 서비스  | 강남대학교 컴퓨터공학부 2025 졸업작품전시회 장려상 
+[라고할때살걸](https://github.com/kyj0503/kyj0503/blob/main/STORY.md#라고할때살걸)    | Python, FastAPI        | 주식 백테스팅 서비스  | 강남대학교 컴퓨터공학부 2025 졸업작품전시회 장려상 
 
 ### 2.2. Team Projects
 Project                                                                               | Skills                   | Description
