@@ -63,14 +63,15 @@
 
 [기술 블로그 보러가기](https://blog.naver.com/kanden9999)
 
+
+
+
 ## 2. Projects
 ### 2.1. Personal Project
-
-
 #### 2.1.1. 라고할때살걸
 [웹사이트](https://backtest.yeonjae.kr/), [Github](https://github.com/kyj0503/backtest)
 
-**기간:** 2025. 05. ~ 2025. 11. (1인 개발)
+**기간:** 2025. 05. ~ 2025. 11.
 
 과거 주가 데이터에 적립식 매수(DCA), 리밸런싱 등 다양한 투자 전략을 대입해 수익률을 시뮬레이션하는 고성능 백테스팅 서비스입니다.
 
