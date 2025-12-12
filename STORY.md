@@ -65,22 +65,31 @@
 
 ## 2. Projects
 ### 2.1. Personal Project
+
+
 #### 2.1.1. 라고할때살걸
 [웹사이트](https://backtest.yeonjae.kr/), [Github](https://github.com/kyj0503/backtest)
 
-과거 주가 데이터에 투자 전략을 대입해 수익률을 시뮬레이션하는 서비스
+**기간:** 2025. 05. ~ 2025. 11. (1인 개발)
 
-**기간:** 2025. 05. ~ 2025. 11.
+과거 주가 데이터에 적립식 매수(DCA), 리밸런싱 등 다양한 투자 전략을 대입해 수익률을 시뮬레이션하는 고성능 백테스팅 서비스입니다.
 
 강남대학교 컴퓨터공학부 졸업작품전시회 **장려상** 수상
 
-* **Architecture & Performance**
-    * **FastAPI & Async:** 다양한 매매 전략을 동적으로 실행할 수 있도록 비동기 서버를 설계했습니다.
-    * **Caching Strategy:** 데이터 변동 빈도에 따라 TTL을 동적으로 적용하고, 메타데이터 기반 소급 액면분할 감지 로직을 설계해 캐시 효율과 데이터 정합성을 100% 확보했습니다.
-    * **Optimization:** 프론트엔드 차트 렌더링 병목 해결을 위해 조회 기간에 따라 데이터를 동적으로 집계하는 다운샘플링 알고리즘을 구현했습니다.
-* **Troubleshooting**
-    * **Blocking I/O 격리:** 캐시 미스(Cache Miss) 시 발생하는 DB 조회 작업이 이벤트 루프를 차단하지 않도록 별도 스레드 풀로 격리했습니다. [블로그 포스팅](https://blog.naver.com/kanden9999/224084582339)
-    * **Connection Pool 관리:** 외부 API 연동 시 간헐적인 "No Data" 오류가 커넥션 문제임을 파악, 데이터 저장 직후 명시적으로 커넥션을 재수립하도록 개선했습니다. [블로그 포스팅](https://blog.naver.com/kanden9999/224086753604)
+* **Architecture & Design Pattern**
+    * **Custom Dependency Injection:** 외부 프레임워크에 의존하지 않고, Python의 동적 타이핑 특성을 활용한 **DI Container를 직접 구현**하여 서비스 간 결합도를 낮추고 테스트 용이성을 확보했습니다. (Singleton Registry 패턴 적용)
+    * **Strategy & Factory Pattern:** 다양한 보조지표(RSI, Bollinger Bands 등)와 매매 전략을 **Strategy 패턴**으로 추상화하여, 기존 코드 수정 없이 새로운 전략을 플러그인처럼 확장할 수 있는 유연한 구조를 설계했습니다.
+    * **FastAPI & Async:** I/O 바운드 작업(DB, 외부 API)과 CPU 바운드 작업(백테스팅 연산)을 효율적으로 처리하기 위해 비동기 아키텍처를 도입했습니다.
+
+* **Performance & Optimization**
+    * **Vectorization (Pandas/Numpy):** 기존 $O(N^2)$ 복잡도를 가지던 일별 수익률 계산 로직을, **벡터 연산**을 통해 사전 정렬 및 일괄 처리하는 방식으로 재설계하여 시뮬레이션 속도를 획기적으로 단축했습니다. [블로그 포스팅](https://blog.naver.com/kanden9999/224105484295)
+    * **Async/Sync Boundary Handling:** Pandas와 같은 동기(Blocking) 라이브러리가 비동기 이벤트 루프를 차단하지 않도록 `asyncio.to_thread`를 활용해 스레드 풀 격리 전략을 적용했습니다. [블로그 포스팅](https://blog.naver.com/kanden9999/224084582339)
+    * **Smart Caching & Downsampling:** 데이터 조회 빈도에 따른 계층적 캐싱(Local -> DB -> API)과, 프론트엔드 차트 렌더링 부하를 줄이기 위한 시계열 데이터 다운샘플링 알고리즘을 구현했습니다.
+
+* **Data Consistency & Reliability**
+    * **Nth Weekday Algorithm:** "매월 두 번째 수요일"과 같은 복잡한 리밸런싱 주기를 정확히 계산하기 위해 `dateutil`에 의존하지 않고 캘린더 알고리즘을 직접 구현하여 비즈니스 로직의 정확도를 높였습니다.
+    * **Robust Database Interaction:** 트랜잭션 데드락 발생 시 지수 백오프를 적용한 **자동 재시도 메커니즘**을 구현하여 시스템 안정성을 강화했습니다.
+    * **Connection Pool Management:** 외부 API 연동 시 간헐적인 커넥션 유실 문제를 해결하기 위해, 데이터 저장 트랜잭션 직후 커넥션을 명시적으로 재수립하는 방어 로직을 적용했습니다. [블로그 포스팅](https://blog.naver.com/kanden9999/224086753604)
 
 
 
@@ -106,7 +115,7 @@
 * **Management: 도메인 기반의 프로젝트 리딩**
     * **백로그 설계:** 기획 요구사항을 `Auth`, `Team`, `Poll`, `Promo` 등 도메인 단위로 구조화하여 백로그를 생성하고, 이를 실제 패키지 구조와 일치시켜 유지보수성을 높였습니다. API 명세서와 ERD를 선행 설계하여 프론트엔드와의 협업 병목을 최소화했습니다.
 
-[노션 백로그 관리 문서](https://leaf-target-bf5.notion.site/1e4be199511b80489b00eb747f9e052b)
+    * [노션 백로그 관리 문서](https://leaf-target-bf5.notion.site/1e4be199511b80489b00eb747f9e052b)
 
 
 
