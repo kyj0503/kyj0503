@@ -115,7 +115,7 @@
 * **Management: 도메인 기반의 프로젝트 리딩**
     * **백로그 설계:** 기획 요구사항을 `Auth`, `Team`, `Poll`, `Promo` 등 도메인 단위로 구조화하여 백로그를 생성하고, 이를 실제 패키지 구조와 일치시켜 유지보수성을 높였습니다. API 명세서와 ERD를 선행 설계하여 프론트엔드와의 협업 병목을 최소화했습니다.
 
-    * [노션 백로그 관리 문서](https://leaf-target-bf5.notion.site/1e4be199511b80489b00eb747f9e052b)
+    * [노션 백로그 관리 문서](https://ordinary-bite-59d.notion.site/2c74519c9a3f81ca9ff6c776a1dbb358)
 
 
 
