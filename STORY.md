@@ -1,6 +1,8 @@
 # Detailed Story of [김연재](https://github.com/kyj0503)
 ## Table of Contents
   * [**1. Introduction**](#1-introduction)
+    + [1.1. Profile](#11-profile)
+    + [1.2. For a lifetime](#12-for-a-lifetime)
   * [**2. Projects**](#2-projects)
     + [2.1. Personal Project](#21-personal-project)
       - [2.1.1. 라고할때살걸](#211-라고할때살걸)
@@ -22,7 +24,7 @@
 
 
 ## 1. Introduction
-
+### 1.1. Profile
 이름: 김연재
 
   - 생년월일: 2001-05-03
@@ -30,7 +32,7 @@
   - Github: https://github.com/kyj0503
   - 블로그: https://blog.naver.com/kanden9999
 
-
+### 1.2. For a lifetime
 **11살, 첫 서버 운영과 데이터 소실의 교훈**
 초등학생 시절, 공유기 접근 권한이 없어 포트포워딩 기능을 사용하지 못해 Hamachi VPN을 이용해 게임 서버를 직접 호스팅했습니다. [블로그](https://blog.naver.com/kanden9999) 이웃 150여 명이 즐기던 인기 서버였으나, 악의적인 유저의 테러로 맵 데이터가 소실되는 사건을 겪었습니다. 그 후 게임 서버 운영은 접었지만 백업의 중요성을 뼈저리게 느꼈고, 중학생 때부터는 **보안과 백업을 최우선으로 고려하는 습관**을 들여 데이터 소실이나 바이러스 감염 사고를 단 한 번도 겪지 않았습니다.
 
